@@ -1,4 +1,4 @@
-### Olá! Me chamo Arthur Mendes 🚀
+## Olá! Me chamo Arthur Mendes 🚀
 
 - 📚Atualmente estou cursando a faculdade de Analise e Desenvolvimento de Sistemas.
 - 🤩Gosto de estudar e aplicar Design na área da programação.
@@ -13,7 +13,7 @@
   </a>
 </div>  
 
-##
+### 💻Minhas Skills
 
 <div style="display": inline_block><br>
   <img align ="center" alt="HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
