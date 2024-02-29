@@ -11,7 +11,7 @@ https://github-readme-stats.vercel.app/api/top-langs?username=Arthur0020theme=tr
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur0020&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur0020&layout=compact&langs_count=16&theme=onedark&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur0020theme=transparent&show_icons=true&locale=en&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur0020theme=onedark&show_icons=true&locale=en&layout=compact"/>
   </a>
 </div>  
 
