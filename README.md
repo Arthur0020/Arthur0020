@@ -5,7 +5,6 @@
 - 💻A procura da minha primeira experiência na área da tecnologia.
 
 ##
-https://github-readme-stats.vercel.app/api/top-langs?username=Arthur0020theme=transparent&show_icons=true&locale=en&layout=compact
 <div>
   <a href= "https://github.com/Arthur0020">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur0020&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
