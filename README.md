@@ -2,7 +2,7 @@
 
 - 📚Atualmente estou cursando a faculdade de Analise e Desenvolvimento de Sistemas.
 - 🤩Gosto de estudar e aplicar Design na área da programação.
-- 💻A procura da minha primeira experiência na área da tecnologia.
+- 💻Técnico de suporte e operações de Software em uma empresa de tecnologia.
 
 ##
 <div>
