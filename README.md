@@ -2,7 +2,7 @@
 
 - 📚Atualmente estou cursando a faculdade de Analise e Desenvolvimento de Sistemas.
 - 🤩Gosto de estudar e aplicar Design na área da programação.
-- 💻Técnico de suporte e operações de Software ERP em uma empresa de tecnologia.
+- 💻Técnico de suporte e operações de Software ERP na ORIONTEC AUTOMAÇÃO COMERCIAL.
 
 ##
 <div>
