@@ -1,7 +1,7 @@
 ## Olá! Me chamo Arthur Mendes 🚀
 
 - 🎓Formado em Analise e Desenvolvimento de Sistemas pela UNIVIÇOSA.
-- 👨🏻‍💻Experiência sólida em suporte de sistemas ERP e internos, Banco de dados SQL, .
+- 👨🏻‍💻Experiência sólida em suporte de sistemas ERP, internos e Banco de dados SQL.
 - 💻Técnico de suporte nível 1 na Fundação Arthur Bernardes - FUNARBE.
 
 ##
