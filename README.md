@@ -1,8 +1,8 @@
 ## Olá! Me chamo Arthur Mendes 🚀
 
-- 📚Atualmente estou cursando a faculdade de Analise e Desenvolvimento de Sistemas.
-- 🤩Gosto de estudar e aplicar Design na área da programação.
-- 💻Técnico de suporte e operações de Software ERP na ORIONTEC AUTOMAÇÃO COMERCIAL.
+- 🎓Formado em Analise e Desenvolvimento de Sistemas pela UNIVIÇOSA.
+- 👨🏻‍💻Experiência sólida em suporte de sistemas ERP e internos, Banco de dados SQL, .
+- 💻Técnico de suporte nível 1 na Fundação Arthur Bernardes - FUNARBE.
 
 ##
 <div>
